@@ -32,11 +32,4 @@ public class SizeKSubset {
         recursiveKsubset(set, k, idx + 1, subset);
     }
 
-        private void iterativeKSubset(List set, int k) {
-        List<Integer> list = new ArrayList<Integer>();
-        List<Integer> sublist = new ArrayList<Integer>();
-        for (int i=0; i<set.size(); i++){
-
-        }
-    }
 }
